@@ -1,0 +1,17 @@
+{
+  "name": "nexa-vault-atm",
+  "version": "3.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aqsa Qazi (GD-aish0o)",
+  "license": "ISC",
+  "description": " A cli based ATM logic crafted Using Typescript which is later compiled into javascript & run in Node.js environment ",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.22"
+  }
+}
